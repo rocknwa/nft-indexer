@@ -1,3 +1,3 @@
-npm install
-add alchemy api key
-npm run dev
+# npm install
+# add alchemy api key
+# npm run dev
