@@ -46,7 +46,7 @@ function App() {
     setError('');
     try {
       const config = {
-        apiKey: 'wLkk9nE5kZ9x7iXZ15vBaxgjRkU9kzrp',
+        apiKey: 'alchemy api',
         network: Network.ETH_MAINNET,
       };
 
